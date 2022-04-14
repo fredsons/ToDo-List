@@ -33,3 +33,23 @@
   flex-direction: column;
   margin-bottom: 1em;
 }
+
+
+.form-control input{
+  border: 1px solid #222;
+  border-radius: 2px;
+  background-color: #2c3035;
+  padding: 0.5em;
+  color: #dfdfdf;        
+}
+
+input[type="submit"] {
+  background-color: #333;
+   color: #eee;
+  display: block;
+  width: 100%;
+  border: 1px solid #222;
+  border-radius: 5px;
+  padding: 1em;
+  cursor: pointer;
+}
